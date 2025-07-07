@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frist.Task", "Frist.Task\Frist.Task.csproj", "{8702BBBF-55AF-428F-A62E-8206C7395832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8702BBBF-55AF-428F-A62E-8206C7395832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8702BBBF-55AF-428F-A62E-8206C7395832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8702BBBF-55AF-428F-A62E-8206C7395832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8702BBBF-55AF-428F-A62E-8206C7395832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2054D9DB-B9F1-40B0-8776-72151166BC19}
+	EndGlobalSection
+EndGlobal
